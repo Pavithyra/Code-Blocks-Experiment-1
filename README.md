@@ -73,8 +73,8 @@ int main() {
 
 ```
 🖥️ Sample Output
-<img width="914" height="745" alt="image" src="https://github.com/user-attachments/assets/cbc8d114-3c7b-4bf3-bf84-ecd608ef10b7" />
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0ac4ec1b-ad46-4a7c-94d1-e5345b54d48f" />
 
 ✅ Result
 
